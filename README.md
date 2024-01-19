@@ -1,8 +1,8 @@
 ##### My Favorite Netlix Series :video_camera::
 
-1. **13 Reasons Why**
+1. **13 Reasons Why** :cry:
 
-    13 Reasons Why is an American teen drama television series developed for Netflix by Brian Yorkey and based on the 2007 novel Thirteen Reasons Why by author Jay Asher. The series revolves around high school student Clay Jensen (Dylan Minnette) and the aftermath of the suicide of fellow student Hannah Baker (Katherine Langford).[3] Before her death, she leaves behind a box of cassette tapes in which she details the reasons why she chose to end her life as well as the people she believes are responsible for her death.
+    13 Reasons Why is an American teen drama television series developed for Netflix by Brian Yorkey and based on the 2007 novel Thirteen Reasons Why by author Jay Asher. The series revolves around high school student Clay Jensen (Dylan Minnette) and the aftermath of the suicide of fellow student Hannah Baker (Katherine Langford). Before her death, she leaves behind a box of cassette tapes in which she details the reasons why she chose to end her life as well as the people she believes are responsible for her death.
 
 ![image](https://github.com/MusashiStussy/app-dev/assets/157148022/3b35273b-502a-4ede-a444-0a5cc53f5979)
 
