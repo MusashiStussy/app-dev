@@ -2,5 +2,5 @@
 
 **13 Reasons Why**
 
-![Stranger things](![image](https://github.com/MusashiStussy/app-dev/assets/157148022/cea07a21-8005-42f2-950a-eafe2dc9c065)
+(![image](https://github.com/MusashiStussy/app-dev/assets/157148022/cea07a21-8005-42f2-950a-eafe2dc9c065)
 
